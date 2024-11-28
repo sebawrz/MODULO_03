@@ -1,0 +1,17 @@
+E1 REACT: ToDoList I
+Hola Nucbers, ¿Cómo están? 🙌
+
+Bienvenidos a la primera entrega del módulo de React.
+
+En el transcurso de las 3 entregas que tendrán en el módulo, irán aplicando los conocimientos adquiridos en al realización de un ToDoList.
+
+Para esta primera entrega, deberán realizar, utilizando Styled-Components como lo vimos en clase, el diseño que tendrán abajo en los recursos de la entrega, tanto para desktop como para mobile. Obviamente deberán ir adaptando la maquetación para que no se rompa en ninguna resolución.
+
+Una vez que lo hagan y lo entreguen, podrán acceder al video de resolución de la entrega.
+
+¡No borren el proyecto ya que lo iremos iterando en las próximas entregas!
+
+#HappyCoding 🤖 
+
+
+https://drive.google.com/drive/folders/1VdbYe25ExbCoj-OcqLcMNztpsIdM-ZyB
