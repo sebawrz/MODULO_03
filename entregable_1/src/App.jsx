@@ -3,7 +3,6 @@ import './App.css'
 import NewTaskForm from './components/NewTaskForm'
 import TaskList from './components/TaskList'
 import DeleteAll from './components/DeleteAll'
-import styled from 'styled-components';
 
 const App = () => {
 

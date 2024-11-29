@@ -57,10 +57,9 @@ const Button = styled.button`
 `;
 
 const Pre = styled.pre`
-display: flex;
-flex-wrap: wrap;
-font-size: 0.75rem;
-overflow-wrap: break-word;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 0.75rem;
 `;
 
 
