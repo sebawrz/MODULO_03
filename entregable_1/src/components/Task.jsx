@@ -1,6 +1,4 @@
 import styled from 'styled-components';
-import { useState } from 'react';
-import { useRef } from 'react';
 
 const Item = styled.li`
 width: 100%;
@@ -40,7 +38,6 @@ const Task = () => {
             <Item><p>Tarea 1</p><Button>Eliminar</Button> </Item>
             <Item><p>Tarea 1</p><Button>Eliminar</Button> </Item>
             <Item><p>Tarea 1</p><Button>Eliminar</Button> </Item>
-
             <Item><p>Tarea 1</p><Button>Eliminar</Button> </Item>
 
         </>

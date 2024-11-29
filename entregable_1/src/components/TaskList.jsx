@@ -1,6 +1,4 @@
 import styled from 'styled-components';
-import { useState } from 'react';
-import { useRef } from 'react';
 import Task from './Task';
 
 const Lista = styled.ul`
